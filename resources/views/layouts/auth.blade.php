@@ -25,7 +25,7 @@
             <div class="col-lg-3">
                 <div class="card">
                     <div class="card-body">
-                        <h4>@yield('title')</h4>
+                        <h2>@yield('title')</h2>
                         @yield('content')
                     </div>
                 </div>
